@@ -29,7 +29,5 @@ if ch = "l" {
     stage.
     //second stage burn
     wait until isEngineRunning(secondEngine).
-    wait 1.
-    stage.
 }
 print "END of control!".
